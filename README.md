@@ -2,7 +2,7 @@
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Nutlope/strokeGPT&env=REPLICATE_API_KEY&project-name=stroke-GPT&repo-name=strokeGPT)
 
-[![Stroke GPT](./public/screenshot.png)](https://strokeGPT.io)
+[![Lesionize](./public/screenshot.png)](https://strokeGPT.io)
 
 ## How it works
 
